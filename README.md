@@ -9,7 +9,7 @@
 
 
 ## The Application itself...
-#### will simply draw 100 squares when the "run a loop" button is clicked. It will add 100 more on each push. Simple to highlight an important capability of QML. 
+#### IF lines 12 - 52 is uncommented (active) and lines 61 - 77 commented (inactive) the QML will simply draw 100 squares when the "run a loop" button is clicked. It will add 100 more on each push. Simple to highlight an important capability of QML. IF you are running the opposit commented system QML will utilize code in the componentCreation.js file to dynamically load QML using the Qt.CreateComponent() method. 
 
 # To-do 
 #### - Add Delete object code.
