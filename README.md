@@ -5,7 +5,8 @@
 
 # Usage
 ## Within the code you can....
-#### Toggle the comments to explore the two methods in QML Qt.createQMLObject() and Qt.createComponent(). The componentCreation.js will show the asyncronous and syncronous methods of creating QML objects dynamically.
+#### Toggle the comments to explore the two methods in QML Qt.createQMLObject() and Qt.createComponent(). The componentCreation.js will show the asyncronous and syncronous methods of creating QML objects dynamically. Just look at the comments of code for instructions...
+
 
 ## The Application itself...
 #### will simply draw 100 squares when the "run a loop" button is clicked. It will add 100 more on each push. Simple to highlight an important capability of QML. 
